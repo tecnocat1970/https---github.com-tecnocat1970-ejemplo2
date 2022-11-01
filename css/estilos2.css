@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+}
+
+h1,h2,h3{
+    color: black;
+    font-size: 25px;
+}
+
+.diario{
+    background-color: lightblue;
+    font-size: 40px;
+}
